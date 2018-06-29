@@ -1,0 +1,22 @@
+* {
+font-family: Gugi;
+font-size: 20x;
+text-align: center;
+}
+
+h1 h3 {
+font-weight: bold;
+}
+
+h1 {
+ font-size: 50px;
+ letter-spacing: 1em;
+}
+
+h3 {
+ font-size: 30px;
+}
+
+p {
+font-weight: italic;
+}
